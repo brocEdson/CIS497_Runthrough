@@ -1,6 +1,6 @@
 ﻿/* Broc Edson
  * Prototype 1
- * Makes the Camera follow the player
+ * Adds score once when player hits trigger
  */
 
 using System.Collections;

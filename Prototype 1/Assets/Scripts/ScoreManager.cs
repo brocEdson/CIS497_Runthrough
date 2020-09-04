@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/* Broc Edson
+ * Prototype 1
+ * Manages the score as well as winning and losing
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

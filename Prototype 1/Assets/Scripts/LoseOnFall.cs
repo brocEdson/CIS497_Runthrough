@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/* Broc Edson
+ * Prototype 1
+ * Causes the player to lose when they fall
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
